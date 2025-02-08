@@ -11,3 +11,8 @@ The setup includes:
 - Web Servers (Amazon EC2): EC2 instances hosting the index.html file.
 - Auto Scaling Group (ASG): Automatically adjusts the number of EC2 instances based on demand, ensuring performance during peak times.
 - Security Groups: Manages inbound and outbound traffic to the EC2 instances.
+
+## Architecture ##
+![Highly-Available-Web-App-on-AWS-Using-Terraform](https://github.com/user-attachments/assets/93c05948-e524-4b75-9bbc-f200325d0063)
+
+
